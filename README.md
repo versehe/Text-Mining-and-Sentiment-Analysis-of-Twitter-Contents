@@ -20,7 +20,9 @@ On the other hand, after conducting sentiment analysis, I found the final result
 ![alt text](https://raw.githubusercontent.com/versehe/Text-Mining-and-Sentiment-Analysis-of-Twitter-Contents/master/sentiment%20analysis%20result%201.png)
 
 To verify my work, I change keyword to 'happy', and result is
+
 ![alt text](https://raw.githubusercontent.com/versehe/Text-Mining-and-Sentiment-Analysis-of-Twitter-Contents/master/sentiment%20analysis%20result%202.png)
 
-<font color="blue"> Find code file: </font>
+
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Find code file:`
 Text Mining and Sentiment Analysis of Twitter Contents.ipynb
